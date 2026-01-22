@@ -1,2 +1,0 @@
-# StudyFlow
-Program para estudos
